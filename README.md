@@ -1,15 +1,13 @@
-```
                         _____  _____
                   /\   |  __ \|  __ \
       ___  ___   /  \  | |__) | |__) |
      / __|/ __| / /\ \ |  _  /|  ___/
      \__ \ (__ / ____ \| | \ \| |
      |___/\___/_/    \_\_|  \_\_|
-```
 # scARP
 Scans the network for the devices it possesses
 
-## How to install
+## Requirements
 ```
 sudo pip3 install scapy-python3
 ```
