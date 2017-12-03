@@ -1,0 +1,7 @@
+__pycache__/
+.idea/*
+*.directory
+*.lprof
+*.py[cod]
+*$py.class
+mac_data.txt
